@@ -1,0 +1,12 @@
+[user]
+	name = Juanma Cervera
+	email = jmcervera@fadrell.com
+[push]
+	default = current
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	editor = gvim -f
